@@ -29,8 +29,7 @@ require (
 	github.com/sirupsen/logrus v1.6.0
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e // indirect
+	golang.org/x/crypto v0.1.0
 	google.golang.org/api v0.32.0
 	k8s.io/api v0.19.3
 	k8s.io/apiextensions-apiserver v0.19.3
